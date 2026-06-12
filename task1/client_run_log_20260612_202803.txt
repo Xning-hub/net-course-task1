@@ -1,0 +1,54 @@
+[2026-06-12 20:28:03.446] 连接到服务器 192.168.169.128:8888
+[2026-06-12 20:28:03.446] 发送 Initialization，N=15
+[2026-06-12 20:28:03.447] 收到 agree
+[2026-06-12 20:28:03.448] 发送 reverseRequest 第1块，长度=81
+[2026-06-12 20:28:03.448] 收到 reverseAnswer 第1块，长度=81，内容= esrever elif desab-PCT a si sihT
+!ngiseD esruoC krowteN retupmoC eht ot emocleW
+[2026-06-12 20:28:03.449] 发送 reverseRequest 第2块，长度=67
+[2026-06-12 20:28:03.449] 收到 reverseAnswer 第2块，长度=67，内容=argorP
+.god yzal eht revo spmuj xof nworb kciuq ehT
+.tset margorp
+[2026-06-12 20:28:03.453] 发送 reverseRequest 第3块，长度=73
+[2026-06-12 20:28:03.454] 收到 reverseAnswer 第3块，长度=73，内容= ,gninrael pots reveN
+.od ot tahw retupmoc a gnillet fo tra eht si gnimm
+[2026-06-12 20:28:03.454] 发送 reverseRequest 第4块，长度=90
+[2026-06-12 20:28:03.455] 收到 reverseAnswer 第4块，长度=90，内容= s'ti ,ti nialpxe ot evah uoy nehW .romuh ekil si edoC
+.gnihcaet spots reven efil esuaceb
+[2026-06-12 20:28:03.455] 发送 reverseRequest 第5块，长度=65
+[2026-06-12 20:28:03.459] 收到 reverseAnswer 第5块，长度=65，内容=hc si klaT
+.edoc eht etirw ,nehT .melborp eht evlos ,tsriF
+.dab
+[2026-06-12 20:28:03.459] 发送 reverseRequest 第6块，长度=94
+[2026-06-12 20:28:03.460] 收到 reverseAnswer 第6块，长度=94，内容=mirc a ni evitceted a gnieb ekil si gniggubeD
+.diputs ,elpmis ti peeK
+.edoc eht em wohS .pae
+[2026-06-12 20:28:03.460] 发送 reverseRequest 第7块，长度=80
+[2026-06-12 20:28:03.462] 收到 reverseAnswer 第7块，长度=80，内容= nac loof ynA
+.enihcam ym no skrow tI
+.reredrum eht osla era uoy erehw eivom e
+[2026-06-12 20:28:03.462] 发送 reverseRequest 第8块，长度=99
+[2026-06-12 20:28:03.463] 收到 reverseAnswer 第8块，长度=99，内容=.dnatsrednu nac snamuh taht edoc etirw sremmargorp dooG .dnatsrednu nac retupmoc a taht edoc etirw
+[2026-06-12 20:28:03.464] 发送 reverseRequest 第9块，长度=71
+[2026-06-12 20:28:03.464] 收到 reverseAnswer 第9块，长度=71，内容= smargorp etirw ot si egaugnal gnimmargorp wen a nrael ot yaw ylno ehT
+
+[2026-06-12 20:28:03.464] 发送 reverseRequest 第10块，长度=55
+[2026-06-12 20:28:03.465] 收到 reverseAnswer 第10块，长度=55，内容=nuh yatS
+.ycneiciffe fo luos eht si yticilpmiS
+.ti ni
+[2026-06-12 20:28:03.467] 发送 reverseRequest 第11块，长度=84
+[2026-06-12 20:28:03.469] 收到 reverseAnswer 第11块，长度=84，内容=oy kniht uoy rehtehW
+.ekat t'nod uoy stohs eht fo %001 ssim uoY
+.hsiloof yats ,yrg
+[2026-06-12 20:28:03.469] 发送 reverseRequest 第12块，长度=70
+[2026-06-12 20:28:03.472] 收到 reverseAnswer 第12块，长度=70，内容= a tnalp ot emit tseb ehT
+.thgir er'uoy ,t'nac uoy kniht uoy ro nac u
+[2026-06-12 20:28:03.472] 发送 reverseRequest 第13块，长度=64
+[2026-06-12 20:28:03.473] 收到 reverseAnswer 第13块，长度=64，内容=i emit ruoY
+.won si emit tseb dnoces ehT .oga sraey 02 saw eert
+[2026-06-12 20:28:03.474] 发送 reverseRequest 第14块，长度=93
+[2026-06-12 20:28:03.474] 收到 reverseAnswer 第14块，长度=93，内容=leb ohw esoht ot sgnoleb erutuf ehT
+.efil s'esle enoemos gnivil ti etsaw t'nod os ,detimil s
+[2026-06-12 20:28:03.475] 发送 reverseRequest 第15块，长度=35
+[2026-06-12 20:28:03.476] 收到 reverseAnswer 第15块，长度=35，内容=.smaerd rieht fo ytuaeb eht ni evei
+[2026-06-12 20:28:03.476] 所有反转数据已保存到文件: reversed_output.txt
+[2026-06-12 20:28:03.476] 传输完成

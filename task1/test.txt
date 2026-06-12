@@ -1,0 +1,20 @@
+Welcome to the Computer Network Course Design!
+This is a TCP-based file reverse program test.
+The quick brown fox jumps over the lazy dog.
+Programming is the art of telling a computer what to do.
+Never stop learning, because life never stops teaching.
+Code is like humor. When you have to explain it, it's bad.
+First, solve the problem. Then, write the code.
+Talk is cheap. Show me the code.
+Keep it simple, stupid.
+Debugging is like being a detective in a crime movie where you are also the murderer.
+It works on my machine.
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+The only way to learn a new programming language is to write programs in it.
+Simplicity is the soul of efficiency.
+Stay hungry, stay foolish.
+You miss 100% of the shots you don't take.
+Whether you think you can or you think you can't, you're right.
+The best time to plant a tree was 20 years ago. The second best time is now.
+Your time is limited, so don't waste it living someone else's life.
+The future belongs to those who believe in the beauty of their dreams.
